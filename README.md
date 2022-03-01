@@ -4,10 +4,10 @@
 
  - [2._Management_Post_Refuse.pdf](2._Management_Post_Refuse.pdf)
  - [4._Facilities.pdf](4._Facilities.pdf)
- - [5._Mechanical_&_Electrical.pdf](5._Mechanical_%26_Electrical.pdf)
+ - [ 5._Mechanical-and-Electrical.pdf ](5._Mechanical_%26_Electrical.pdf)
  - [6._Services.pdf](6._Services.pdf)
- - [7._Finishes_&_Fittings_e.pdf](7._Finishes_%26_Fittings_e.pdf)
- - [8._Health_&_Safety.pdf](8._Health_%26_Safety.pdf)
+ - [7._Finishes_and_Fittings_e.pdf](7._Finishes_%26_Fittings_e.pdf)
+ - [8._Health_and_Safety.pdf](8._Health_%26_Safety.pdf)
 
 ### Appliances
 
